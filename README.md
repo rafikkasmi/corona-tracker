@@ -1,7 +1,7 @@
 # coronatracker
 
 > Corona Tracker App
-
+This webapp is built using Nuxt , and for the the data we're fetching [link text itself]: https://covid19api.com/
 ## Build Setup
 
 ```bash
