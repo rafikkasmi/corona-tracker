@@ -1,7 +1,10 @@
 # coronatracker
 
 > Corona Tracker App
-This webapp is built using Nuxt , and for the the data we're fetching [link text itself]: https://covid19api.com/
+
+
+This webapp is built using Nuxt , and for the the data we're fetching https://covid19api.com/
+You can check the demo of this app https://coronastatstracker.netlify.app/
 ## Build Setup
 
 ```bash
